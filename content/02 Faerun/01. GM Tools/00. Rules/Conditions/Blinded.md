@@ -1,0 +1,2 @@
+- Can't see, automatically fail any **ability checks** that require sight
+- Attack rolls against the creature have **advantage**, and creature attacks have **disadvantage

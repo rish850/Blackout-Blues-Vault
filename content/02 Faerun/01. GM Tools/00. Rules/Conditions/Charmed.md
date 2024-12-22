@@ -1,0 +1,2 @@
+- Can't attack the charmer or make them a target for harmful ability or magic effect
+- The charmer has **advantage** on any **ability check** to interact socially with the charmed

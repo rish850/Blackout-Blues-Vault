@@ -1,0 +1,1 @@
+ - Can't hear, automatically fail any **ability checks** that require hearing
