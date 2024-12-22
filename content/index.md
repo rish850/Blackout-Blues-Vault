@@ -3,9 +3,4 @@ title: Welcome!
 draft: false
 ---
 
-What I may need? 
-1. Character/Monster stat
-2. Session Template
-3. Location template
-4. Npc/monster info template (desc + ogass?)
-5. All my cool tables
+Ігрові нотатки до Shadow of the Demon Lord ([[Arcanum]]) та Dungeons & Dragons 5e, 2014 ([[04. World]]).
