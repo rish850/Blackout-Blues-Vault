@@ -1,23 +1,21 @@
 ---
 aliases:
-  - Хана
-  - Хану
-  - Толік
-гравець: Толік
+  - placeholder
+гравець: placeholder
 роль: PC
 hp: placeholder
 ac: placeholder
 modifier: placeholder
-статус: живий
+статус: placeholder
 ---
 
 # Опис
 
 ## Базове
 
-- Раса: ельф (сонячний)
+- Раса: 
 - Клас: 
-- Рівень: 3
+- Рівень: 
 - HP/AC: 
 - Ініциатива:
 - Пасивна уважність: 
