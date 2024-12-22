@@ -10,7 +10,7 @@ East of High Forest was Upvale, a small stretch of the Delimbiyr Vale that separ
 
 ## Forests
 
-- [[Golden Vine Grove]]: Jack's and Gen'dai's place of birth. A hidden, and probably very old druid grove under the wing of archdruid Kelethyr.
+- [[Golden Vine Grove]]: Jack's and [[Ген'дай Келетир|Gen'dai]]'s place of birth. A hidden, and probably very old druid grove under the wing of archdruid Kelethyr.
 
 ## Settlements
 
