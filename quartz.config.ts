@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "rish850.github.io/Blackout-Blues-Vault",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "z_Templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
