@@ -1,5 +1,5 @@
 # [[Conditions]]
 
-[[Blinded]]
-[[Charmed]]
-[[Deafened]]
+- [[Blinded]]
+- [[Charmed]]
+- [[Deafened]]
