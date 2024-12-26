@@ -5,7 +5,7 @@ title: Welcome!
 Ігрові нотатки до Shadow of the Demon Lord та Dungeons & Dragons 5e, 2014.
 
 - Shadow of the Demon Lord
-- Dungeons & Dragons 5e (2014)
+- Dungeoncd & Dragons 5e (2014)
 	- 01. GM Tools
 		- [[00. Rules]]
 	- [[02 Dungeons & Dragons 5e (2014)/02. Party/02. Party|02. Party]]

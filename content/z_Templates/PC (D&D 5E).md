@@ -1,20 +1,18 @@
 ---
 aliases:
-  - Хана
-  - Хану
-  - Хан
-гравець: Толік
+  - placeholder
+гравець: placeholder
 роль: PC
-статус: живий
+статус: placeholder
 ---
 
 # Опис
 
 ## Базове
 
-- Раса: ельф (сонячний)
+- Раса: 
 - Клас: 
-- Рівень: 3
+- Рівень: 
 - HP/AC: 
 - Ініциатива:
 - Пасивна уважність: 
@@ -40,9 +38,11 @@ placeholder
 	- placeholder
 - Зв'язки:
 	- placeholder
+
 ## Особливості
 
 - placeholder
+
 ## Вміння
 
 - Інструменти:
@@ -53,6 +53,7 @@ placeholder
 	- placeholder
 - Особливі:
 	- placeholder
+
 ## Спорядження
 
 - Базове:
@@ -63,6 +64,7 @@ placeholder
 # Персональний квест
 
 - placeholder
+
 # Бексторі
 
 - placeholder
