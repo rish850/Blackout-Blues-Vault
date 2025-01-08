@@ -2,6 +2,10 @@
 
 - placeholder
 
+# Лут
+
+- placeholder
+
 # Поточні сюжети
 
 - placeholder

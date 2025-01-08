@@ -1,8 +1,12 @@
+# Characters 
+
+- placeholder
+
 # Current Plots
 
 - placeholder
 
-# What Should They Get/Learn 
+# What Should Learn 
 
 - placeholder
 
@@ -17,6 +21,10 @@
 # Encounters 
 
 - placeholder
+
+# Loot
+
+- placeholder 
 
 # Notes
 
